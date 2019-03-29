@@ -1,3 +1,3 @@
 # gitTest
-- add sth
+- add sth ...
 - Creating a new branch is quick and simple.
